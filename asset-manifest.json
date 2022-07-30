@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/paloalto/static/css/main.6930d25b.css",
+    "main.css": "/paloalto/static/css/main.68b000e7.css",
     "main.js": "/paloalto/static/js/main.efbb9b7d.js",
     "static/media/hero-banner.jpeg": "/paloalto/static/media/hero-banner.2eda185917b2bd21cbfa.jpeg",
     "index.html": "/paloalto/index.html",
-    "main.6930d25b.css.map": "/paloalto/static/css/main.6930d25b.css.map",
+    "main.68b000e7.css.map": "/paloalto/static/css/main.68b000e7.css.map",
     "main.efbb9b7d.js.map": "/paloalto/static/js/main.efbb9b7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.6930d25b.css",
+    "static/css/main.68b000e7.css",
     "static/js/main.efbb9b7d.js"
   ]
 }
